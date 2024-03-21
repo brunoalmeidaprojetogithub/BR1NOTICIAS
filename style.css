@@ -11,35 +11,35 @@ body{
  }
  h1{
  
-     background-color: rgba(110, 29, 185, 0.671);
-     color: white;
+    background-color: rgba(219, 20, 20, 0.671);
+     color: rgb(255, 246, 246);
      text-align: center;
      padding: 1px;
      text-shadow: 1px 1px 1px 1px black;
      border-radius: 3px 3px 3px 3px;
+     box-shadow: 3px;
  }
  a{
-     background-color: rgb(102, 255, 0);
+    
      color: rgb(0, 0, 0);
      text-decoration: none;
-     padding: 1px;
+     padding: 40px;
+
+ }
+ nav{
+    text-align: center;
+    background-color: bisque;
  }
  nav > a:hover{
-     background-color: rgb(228, 6, 6);
-     color: rgb(13, 212, 13);
-     text-decoration: underline;
-     margin-bottom: 30px;
-     border-radius: 3px 3px 3px 3px;
+    color: brown;
+
+     
  
  }
- nav > a{
-     background-color: blanchedalmond;
-     border-radius: 3px 3px 3px 3px;
+
    
- }
- a{
-     text-decoration: underline;
- }
+ 
+
  p{
     font-family: Arial, Helvetica, sans-serif;
  }
@@ -56,8 +56,8 @@ body{
      text-align: center;
  }
  article > h1 {
-     text-shadow: 1px 1px 1px 1px black;
-     box-shadow: 1px 1px 1px 1px black;
+     text-shadow: 1px 1px 1px black;
+     box-shadow: 1px 1px 1px black;
      border-radius: 3px 3px 3px 3px;
  }
 img{
