@@ -32,9 +32,9 @@ body{
  }
  nav > a:hover{
     color: brown;
-
-     
- 
+ }
+ main{
+    margin: auto;
  }
 
    
@@ -45,6 +45,9 @@ body{
  }
  section{
      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ section > article{
+    margin: auto;
  }
  article{
      font-family: Verdana, Geneva, Tahoma, sans-serif;
